@@ -2,7 +2,8 @@
  * Module dependencies
  */
 
- var includeAll = require('include-all');
+const _ = require('lodash');
+const includeAll = require('include-all');
 
 /**
  * sails-hook-custom-blueprints hook

@@ -11,7 +11,8 @@
     "isHook": true
   },
   "dependencies": {
-    "include-all": "^3.0.1"
+    "include-all": "^3.0.1",
+    "lodash": "^4.17.11"
   },
   "devDependencies": {},
   "repository": {
